@@ -1,0 +1,15 @@
+/Users/handofmaradona/Desktop/GeerBrains/языки програмирования/семинар/С# Project/HomeWork03/obj/Debug/net6.0/HomeWork03.csproj.AssemblyReference.cache
+/Users/handofmaradona/Desktop/GeerBrains/языки програмирования/семинар/С# Project/HomeWork03/obj/Debug/net6.0/HomeWork03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/handofmaradona/Desktop/GeerBrains/языки програмирования/семинар/С# Project/HomeWork03/obj/Debug/net6.0/HomeWork03.AssemblyInfoInputs.cache
+/Users/handofmaradona/Desktop/GeerBrains/языки програмирования/семинар/С# Project/HomeWork03/obj/Debug/net6.0/HomeWork03.AssemblyInfo.cs
+/Users/handofmaradona/Desktop/GeerBrains/языки програмирования/семинар/С# Project/HomeWork03/obj/Debug/net6.0/HomeWork03.csproj.CoreCompileInputs.cache
+/Users/handofmaradona/Desktop/GeerBrains/языки програмирования/семинар/С# Project/HomeWork03/bin/Debug/net6.0/HomeWork03
+/Users/handofmaradona/Desktop/GeerBrains/языки програмирования/семинар/С# Project/HomeWork03/bin/Debug/net6.0/HomeWork03.deps.json
+/Users/handofmaradona/Desktop/GeerBrains/языки програмирования/семинар/С# Project/HomeWork03/bin/Debug/net6.0/HomeWork03.runtimeconfig.json
+/Users/handofmaradona/Desktop/GeerBrains/языки програмирования/семинар/С# Project/HomeWork03/bin/Debug/net6.0/HomeWork03.dll
+/Users/handofmaradona/Desktop/GeerBrains/языки програмирования/семинар/С# Project/HomeWork03/bin/Debug/net6.0/HomeWork03.pdb
+/Users/handofmaradona/Desktop/GeerBrains/языки програмирования/семинар/С# Project/HomeWork03/obj/Debug/net6.0/HomeWork03.dll
+/Users/handofmaradona/Desktop/GeerBrains/языки програмирования/семинар/С# Project/HomeWork03/obj/Debug/net6.0/refint/HomeWork03.dll
+/Users/handofmaradona/Desktop/GeerBrains/языки програмирования/семинар/С# Project/HomeWork03/obj/Debug/net6.0/HomeWork03.pdb
+/Users/handofmaradona/Desktop/GeerBrains/языки програмирования/семинар/С# Project/HomeWork03/obj/Debug/net6.0/HomeWork03.genruntimeconfig.cache
+/Users/handofmaradona/Desktop/GeerBrains/языки програмирования/семинар/С# Project/HomeWork03/obj/Debug/net6.0/ref/HomeWork03.dll
